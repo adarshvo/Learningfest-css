@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://spiffy-fire-8ed.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F00607fab-2ebf-48a1-9db6-4b992ec36984%2Fa6ef9fae-ee41-48e3-a298-06f4ce87f407%2FUntitled.png?table=block&id=10c4829e-1539-41e8-835e-06df8d7c42a3&spaceId=00607fab-2ebf-48a1-9db6-4b992ec36984&width=2000&userId=&cache=v2');
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form{
+    background-color: white;
+    width: 300px;
+    padding-left: 18px;
+    padding-right: 20px;
+    padding-top: 10px;
+    margin-left: 470px;
+    margin-top: 130px;
+    border-radius: 1%;
+    
+  }
+  .i{
+    background-color: #f1f1f1;
+    border: none;
+    width: 266px;
+  }
+  h1{
+    font: bold;
+    font-size: 18px;
+    padding-left: 90px;
+    margin-bottom: 17px;
+  }
+  
+  .b{
+    background-color: #373b3e;
+    margin-bottom: 10px;
+    margin-top: 33px;
+    width: 266px;
+    color: white;
+  }
